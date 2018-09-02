@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--all students info-->
+	<students>
+		<student name="student_00" score="100" />
+		<student name="student_01" score="90" />
+		<student name="student_02" score="80" />
+		<student name="student_03" score="70" />
+		<student name="student_04" score="60" />
+		<student name="student_05" score="50" />
+		<student name="student_06" score="40" />
+		<student name="student_07" score="30" />
+		<student name="student_08" score="20" />
+		<student name="student_09" score="10" />
+	</students>
+	<!--all books info-->
+	<books>
+		<book book="book_00" price="50" />
+		<book book="book_01" price="49" />
+		<book book="book_02" price="48" />
+		<book book="book_03" price="47" />
+		<book book="book_04" price="46" />
+		<book book="book_05" price="45" />
+		<book book="book_06" price="44" />
+		<book book="book_07" price="43" />
+		<book book="book_08" price="42" />
+		<book book="book_09" price="41" />
+	</books>
+	<!--IP address-->
+	<ip>192.168.1.11</ip>
+</root>

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/pugixml/include/xml/integer_to_string.hpp
+stdio.h
+-
+
+/root/pugixml/include/xml/pugiconfig.hpp
+
+/root/pugixml/include/xml/pugixml.hpp
+pugiconfig.hpp
+/root/pugixml/include/xml/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+integer_to_string.hpp
+/root/pugixml/include/xml/integer_to_string.hpp
+
+/root/pugixml/test/pugixmltest.cpp
+iostream
+-
+string
+-
+../include/xml/pugixml.hpp
+/root/pugixml/include/xml/pugixml.hpp
+../include/xml/integer_to_string.hpp
+/root/pugixml/include/xml/integer_to_string.hpp
+../include/xml/pugiconfig.hpp
+/root/pugixml/include/xml/pugiconfig.hpp
+sys/time.h
+-
+

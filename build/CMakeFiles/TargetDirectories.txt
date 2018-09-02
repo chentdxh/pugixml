@@ -1,0 +1,4 @@
+/root/pugixml/build/CMakeFiles/rebuild_cache.dir
+/root/pugixml/build/CMakeFiles/edit_cache.dir
+/root/pugixml/build/CMakeFiles/pugixmltest.dir
+/root/pugixml/build/CMakeFiles/pugixml.dir

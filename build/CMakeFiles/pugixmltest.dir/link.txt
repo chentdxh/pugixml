@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread -O2 -g -DNDEBUG   CMakeFiles/pugixmltest.dir/test/pugixmltest.cpp.o  -o ../bin/pugixmltest  -L/root/pugixml/lib -rdynamic ../lib/libpugixml.a -Wl,-rpath,/root/pugixml/lib 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libpugixml.a  CMakeFiles/pugixml.dir/include/xml/pugixml.cpp.o CMakeFiles/pugixml.dir/src/dmformat.cc.o CMakeFiles/pugixml.dir/src/dmostream.cc.o CMakeFiles/pugixml.dir/src/dmposix.cc.o
+/usr/bin/ranlib ../lib/libpugixml.a
